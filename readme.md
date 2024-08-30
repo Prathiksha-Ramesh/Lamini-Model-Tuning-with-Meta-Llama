@@ -2,6 +2,8 @@
 
 This project demonstrates how to fine-tune a language model using the Lamini API, specifically leveraging the Meta-Llama-3-8B-Instruct model. The project focuses on customizing the model's responses to specific inputs by providing a dataset for tuning.
 
+
+
 ## Project Structure
 ```
 project-directory/ 
